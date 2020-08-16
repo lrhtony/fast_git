@@ -1,5 +1,5 @@
 # fast_git
-使用 [https://github.com.cnpmjs.org/]GitHub镜像 ，更高速clone GitHub上的公开仓库
+使用 [GitHub镜像](https://github.com.cnpmjs.org/) ，更高速clone GitHub上的公开仓库
 clone完毕后自动更改git仓库地址为原地址
 要求：安装git并添加到环境变量中
 
